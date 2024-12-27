@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Next_step_java_2022\hibernate-practice\session-clear-demo"/>
+			<item value="D:\Next_step_java_2022\hibernate-practice\cascadetypes-practice"/>
+			<item value="D:\Next_step_java_2022\hibernate-practice\hibernate-crud-demo"/>
+			<item value="D:\Next_step_java_2022\hibernate-practice\hibernate-practice\src\main\java\com\hibernate\practice\app\MainApp.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="onetomany-unidirectional-demo"/>
+			<item value="onetone-bidirectional-demo"/>
+			<item value="onetoone-unidirectional-demo"/>
+			<item value="mapping-collectionof-entity"/>
+		</list>
+		<list key="name">
+			<item value="onetomany-unidirectional-demo"/>
+			<item value="onetone-bidirectional-demo"/>
+			<item value="onetoone-unidirectional-demo"/>
+			<item value="mapping-collectionof-entity"/>
+		</list>
+		<list key="artifactId">
+			<item value="onetomany-unidirectional-demo"/>
+			<item value="onetone-bidirectional-demo"/>
+			<item value="onetoone-unidirectional-demo"/>
+			<item value="mapping-collectionof-entity"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
